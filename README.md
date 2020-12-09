@@ -10,6 +10,6 @@ Example of our yaw not facing the direction of the camera as the lower body rota
 Problem Reference Video: https://www.youtube.com/watch?v=sEe4Q5Clzhw
 
 Example of another project using an Animation system we can't use that seems to have solved this problem.
-![Example of how a different project does it right](https://media2.giphy.com/media/PzmMdOpxNIPTUzGByA/giphy.gif)
+![Example of how a different project does it right](https://im3.ezgif.com/tmp/ezgif-3-44fd0c57c985.gif)
 
 How a Similar Project Has It Look: https://www.youtube.com/watch?v=c_LTTybvQMQ
