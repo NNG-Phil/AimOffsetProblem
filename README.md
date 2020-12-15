@@ -12,6 +12,6 @@ Problem Reference Video: https://www.youtube.com/watch?v=sEe4Q5Clzhw
 
 Example of another project using an Animation system we can't use that seems to have solved this problem.
 
-![Example of how a different project does it right](https://s8.gifyu.com/images/ezgif-3-6745a8341c11.md.gif)
+![Example of how a different project does it right](https://s8.gifyu.com/images/ezgif-3-6745a8341c11.gif)
 
 How a Similar Project Has It Look: https://www.youtube.com/watch?v=c_LTTybvQMQ
